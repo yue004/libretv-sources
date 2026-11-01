@@ -1,2 +1,0 @@
-# libretv-sources
-libretv-sources
